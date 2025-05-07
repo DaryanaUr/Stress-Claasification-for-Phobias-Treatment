@@ -12,4 +12,5 @@ This project is a real-time stress detection and classification system that uses
 I recommend using a **virtual environment** to isolate your dependencies.
 
 And don't forget to install the required libraries:
+
 pip install tensorflow scikit-learn numpy pandas matplotlib pyserial pynput pylsl
